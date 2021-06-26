@@ -6,4 +6,5 @@ This is REAADME for Controling DC motor with L293D driver
 * 2 DC motor
 * L293D driver
 ## Precedure
-https://github.com/IbrahimOTH/Controling-DC-motor-with-L293D/blob/main/Schematic%20L293D.png
+[alt text](https://github.com/IbrahimOTH/Controling-DC-motor-with-L293D/blob/main/Schematic%20L293D.png)
+* Connect E
