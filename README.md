@@ -12,7 +12,7 @@ This is REAADME for Controling DC motor with L293D driver
 * Pins 4&5 to the ground 
 * finally connect Pins 3&6 to the motor 
 * repeat the same steps for the second motor
-## Codes Notes 
+## Code Notes 
 * we choose the speed by defining analog pin No. 5 
 * we can choose the direction clockwise/anticlockwise by changing LOW/HiGH in OUTPUT 3&4
 * you need to set the speed at 100 at least to kick off
